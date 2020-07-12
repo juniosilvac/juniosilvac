@@ -49,9 +49,8 @@ query {
     }
   }
 }
-""".replace(
-        "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
-    )
+"""
+    
 
 
 def fetch_releases(oauth_token):
