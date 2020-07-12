@@ -1,16 +1,15 @@
-### Hi there 👋
+Currently working with web development. [follow @SilvacJunio on Twitter](https://twitter.com/SilvacJunio).
 
-<!--
-**juniosilvac/juniosilvac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table><tr><td valign="top">
 
-Here are some ideas to get you started:
+### Recent releases
+<!-- recent_releases starts -->
+* [Service Console .NET Core](https://github.com/juniosilvac/CrawlerProventos) - 2020-06-06
+* [API RESTful .NET Core](https://github.com/juniosilvac/Proventos) - 2020-06-06
+* [SPA - Angular 1.0](https://github.com/juniosilvac/proventos-app) - 2020-06-05
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- recent_releases ends -->
+
+</td>
+</table>
+
