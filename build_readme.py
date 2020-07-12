@@ -28,7 +28,7 @@ def make_query(after_cursor=None):
     return """
 query {
   viewer {
-    repositories(first: 100, privacy: PUBLIC) {
+    repositories(first: 100, privacy: PUBLIC, after:AFTER) {
       pageInfo {
         hasNextPage
         endCursor
@@ -49,8 +49,9 @@ query {
     }
   }
 }
-"""
-    
+""".replace(
+        "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
+    )
 
 
 def fetch_releases(oauth_token):
@@ -124,3 +125,7 @@ if __name__ == "__main__":
         project_releases_content, "release_count", str(len(releases)), inline=True
     )
     project_releases.open("w").write(project_releases_content)
+
+   
+
+    readme.open("w").write(rewritten)
