@@ -10,6 +10,8 @@ Currently working with web development. [follow @SilvacJunio on Twitter](https:/
 
 <!-- recent_releases ends -->
 
+<img src="https://github.com/juniosilvac/juniosilvac/workflows/Upload%20Python%20Package/badge.svg" align="right" alt="Build README">
+
 </td>
 </table>
 
