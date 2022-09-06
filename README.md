@@ -1,1 +1,1 @@
-Currently working with web development. [follow @SilvacJunio on Twitter](https://twitter.com/SilvacJunio).
+Software development. [follow @SilvacJunio on Twitter](https://twitter.com/SilvacJunio).
