@@ -42,5 +42,3 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junio-silva-4a9403297/)](https://www.linkedin.com/in/junio-silva-4a9403297/)
-[![Gmail Badge](https://img.shields.io/badge/-junio.silvac@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junio.silvac@gmail.com)](mailto:junio.silvac@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/juniosilvac?label=follow&style=social)](https://github.com/juniosilvac)
